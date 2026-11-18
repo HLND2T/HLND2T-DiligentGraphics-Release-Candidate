@@ -1,8 +1,6 @@
-# HLND2T_DiligentGraphics
+# HLND2T-DiligentGraphics
 
-Closed-source GoldSrc-like engine with [DiligentGraphics](https://github.com/DiligentGraphics/DiligentEngine) as RHI and [slang](https://github.com/shader-slang/slang) as shading language.
-
-This is a technical verification demo that completely overhaul the vanilla graphics pipeline.
+GoldSrc-compatiable engine with [DiligentGraphics](https://github.com/DiligentGraphics/DiligentEngine) as RHI which completely overhaul the vanilla graphics pipeline.
 
 Download: https://github.com/HLND2T/HLND2T_DiligentGraphics/releases
 
@@ -15,8 +13,6 @@ Download: https://github.com/HLND2T/HLND2T_DiligentGraphics/releases
 * Vulkan ( launch parameter: `-vk` )
 
 * OpenGL ( launch parameter: `-gl` )
-
-* WebGPU ( launch parameter: `-webgpu` )
 
 ## Screenshots
 
